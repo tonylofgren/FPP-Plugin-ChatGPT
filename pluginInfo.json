@@ -1,0 +1,26 @@
+{
+    "repoName": "FPP-Plugin-ChatGPT",
+    "name": "AI Matrix - ChatGPT",
+    "author": "Tony Lofgren",
+    "description": "Elevate your holiday lightshows with the FPP Falcon Matrix ChatGPT Plugin, adding real-time, AI-generated text narrations that scroll across your matrix to introduce songs, share safety messages, and set the mood.",
+    "homeURL": "https://github.com/tonylofgren/FPP-Plugin-ChatGPT",
+    "srcURL": "https://github.com/tonylofgren/FPP-Plugin-ChatGPT.git",
+    "bugURL": "https://github.com/tonylofgren/FPP-Plugin-ChatGPT/issues",
+    "allowUpdates": 1,
+    "versions": [
+         {
+            "minFPPVersion": "7",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": "",
+            "dependencies": {
+			    "plugins": [
+				],
+			    "packages": [
+				],
+				"scripts": [
+				]
+			}
+        }
+    ]
+}
