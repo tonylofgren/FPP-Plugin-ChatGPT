@@ -10,4 +10,3 @@ echo "Adding RUN-CHATGPT-SCRIPT.sh to script folder."
 . /opt/fpp/scripts/common
 setSetting restartFlag 1
 popd
-
